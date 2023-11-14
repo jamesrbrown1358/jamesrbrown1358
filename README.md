@@ -1,0 +1,1 @@
+This repository is junk code and items from  a computer that shoes signs of being tampered with.  Git was set up on it and numerous files were staged to commit to some unknown repository.  They were committed to this repository for analysis.
